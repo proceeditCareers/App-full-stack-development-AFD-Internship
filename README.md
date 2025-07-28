@@ -53,7 +53,7 @@ As a Full-Stack Development Intern at Prceedit, you will be an integral part of 
 ## 📝 How to Apply
 
 Please fill out the form below:
-👉 [Apply Here](forms.gle/2ZCfZkWnEiJS5nRCA)
+👉 [Apply Here]([forms.gle/2ZCfZkWnEiJS5nRCA](https://docs.google.com/forms/d/e/1FAIpQLScDw4bgA8y3Sgjz2moLtNIy3JqKAEJqB0PBgmQbkvusIDD5JQ/viewform))
 
 We’ll contact selected applicants via email.
 
