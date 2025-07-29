@@ -6,15 +6,15 @@ We are currently offering remote internships for motivated students and graduate
 📍 Location: Remote  
 🕒 Duration: 6 months   
 
-## 📌 Description
+##  Description
 
 Are you a passionate, tech-savvy individual looking to kickstart your career in Full-Stack Development ? Join us in the Proceedit Application Unit, where you'll be at the forefront of innovative front-end application development. We are seeking enthusiastic and motivated interns who are ready to explore, innovate, and contribute to the dynamic world of tech.
 
-## 💼 About Us:
+##  About Us:
 
 Proceedit is a software development company specializing in business process automation. We simplify your work by transforming your business, managing its complexity, and facilitating collaboration with your different stakeholders. As a result, by applying our BPaaS business model, we agile your operations, control your processes, and maximize your margins without requiring any investment. We pride ourselves on our commitment to using a common technological stack and the power of iBots developed in the iLab Unit. Our Applications Unit plays a pivotal role in our mission to deliver user-friendly, data-driven solutions to our clients.
 
-## 🌟 Internship Details:
+##  Internship Details:
 
 As a Full-Stack Development Intern at Prceedit, you will be an integral part of our Applications Unit, gaining hands-on experience in various aspects of application development. Your responsibilities will include:
 
@@ -24,7 +24,7 @@ As a Full-Stack Development Intern at Prceedit, you will be an integral part of 
 - Front-End Applications Development: Assist in building cutting-edge front-end applications using the latest technologies and best practices.
 - Test, Debugging, and Deployment: Engage in testing, debugging, and deployment procedures to ensure the quality and reliability of our applications.
 
-## 🧠 Qualifications:
+##  Qualifications:
 
 - Pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field.
 - A strong passion for software development and a desire to learn and grow in a fast-paced, collaborative environment.
@@ -37,7 +37,7 @@ As a Full-Stack Development Intern at Prceedit, you will be an integral part of 
 - Experience in FlutterFlow and Shopify could be a huge advantage
 - Familiarity with front-end frameworks is a plus
 
-## 📨 What We Offer:
+##  What We Offer:
 
 - A dynamic and innovative work environment.
 - Mentorship and hands-on experience in the world of Full-Stack Development.
@@ -50,7 +50,7 @@ As a Full-Stack Development Intern at Prceedit, you will be an integral part of 
 - Financial compensation by participating on the trainee pathway. But, only in the second phase of the internship
 - Commission pay
 
-## 📝 How to Apply
+##  How to Apply
 
 Please fill out the form below:
 👉 [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLScDw4bgA8y3Sgjz2moLtNIy3JqKAEJqB0PBgmQbkvusIDD5JQ/viewform)
